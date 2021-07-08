@@ -1,28 +1,12 @@
 ## What is Platform Engineering?
 
-The question what is Platform engineering is difficult to answer as different people and sources will generally provide slightly different answers. The general concencensus is that **Platform Engineering** is doing what it takes to provide a platform for application developers to run their software on.
+The question what is Platform engineering is difficult to answer as different people and sources will generally provide slightly different answers. The general concencensus is that **Platform Engineering** is doing what it takes both technical and non technical to provide a platform for users to run their software on.  
+This is often described as:
+>Filling the gap between hardware and software.
 
-### Markdown
+### What does Platform Engineering provide?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
