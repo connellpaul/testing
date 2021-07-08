@@ -1,8 +1,6 @@
-# Welcome to GitHub Pages
+## What is Platform Engineering?
 
-You can use the [editor on GitHub](https://github.com/connellpaul/testing/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The question what is Platform engineering is difficult to answer as different people and sources will generally provide slightly different answers. The general concencensus is that **Platform Engineering** is doing what it takes to provide a platform for application developers to run their software on.
 
 ### Markdown
 
