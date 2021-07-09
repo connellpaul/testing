@@ -1,4 +1,8 @@
 markdown: kramdown
 theme: minima
 title: Platform Engineering
-author: Paul Connell
+author: 
+   name: Paul Connell
+   email: paul.x.connell@capgemini.com
+minima:
+   github: https://github.com/connellpaul
