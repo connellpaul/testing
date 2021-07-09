@@ -3,3 +3,6 @@ theme: minima
 title: Platform Engineering
 author: Paul Connell
 github_username: connellpaul
+header_pages:
+  - about.md
+  - README.md
