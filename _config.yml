@@ -1,1 +1,5 @@
-theme: jekyll-theme-leap-day
+markdown: kramdown
+theme: minima
+title: Platform Engineering
+author: Paul Connell
+github_username: connellpaul
