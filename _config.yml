@@ -1,4 +1,4 @@
 markdown: kramdown
-remote_theme: connellpaul / connellpaul.io
+theme: minima
 title: Platform Engineering
 author: Paul Connell
