@@ -1,5 +1,5 @@
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 title: Platform Engineering
 author: Paul Connell
 github_username: connellpaul
