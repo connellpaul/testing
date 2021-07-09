@@ -10,4 +10,5 @@ This is often described as:
 
 ## What does Platform Engineering provide?
 
->this is new  
+**Platform Engineering** provides a curated platform for the consumers to utilise for their software products.
+
